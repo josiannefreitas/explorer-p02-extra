@@ -19,7 +19,7 @@ body {
 .page {
   padding: 70px 90px 0;
   text-align: center;
-  width: 1300px;
+  max-width: 1300px;
   margin: auto;
 }
 
